@@ -1,0 +1,6 @@
+user1@example.com
+user2@sync.com
+user3@gmail.com
+user4@yahoo.com
+user5@outlook.com
+user1@example.com
