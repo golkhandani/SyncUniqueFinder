@@ -28,7 +28,7 @@ To run this code, you'll need the following:
 
 ### Node.js
 
-Download and install Node.js from the official website (https://nodejs.org/en). This provides the JavaScript runtime environment needed to execute the code.
+Download and install `Node.js > v18.13.0` from the official website (https://nodejs.org/en). 
 
 ### Install dependencies
 

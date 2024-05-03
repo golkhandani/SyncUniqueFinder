@@ -18,7 +18,7 @@ import { findUniqueEmails } from "./utils/find_unique_emails";
 
 async function main() {
   // Create a performance observer
-  let gcCallsCount = 0;
+  let gcCallsCount: number = 0;
   const obs = new PerformanceObserver((list) => {
     const entry = list.getEntries()[0];
     console.debug(
